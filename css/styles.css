@@ -1,0 +1,57 @@
+.brand {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 1em;
+    font-family: "Montserrat", serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+}
+
+.nav-right {
+    display: flex;
+    justify-content: space-between;
+}
+
+.fa-instagram {
+    margin-left: 0.8em;
+    margin-right: 0.2em;
+}
+
+.nav-tabs .nav-item .nav-link {
+    color: #9aa0a5 !important;
+}
+
+
+#grid-tab > i:active, .nav-tabs .nav-item .nav-link.active {
+    color: #0080FF !important;
+}
+
+li:nth-child(5) > a {
+    color:red;
+}
+
+.nav-tabs .nav-item .nav-link {
+    color: #0a0a0a;
+  }
+  
+  .nav-tabs .nav-item .nav-link.active {
+    color: #0080FF;
+  }
+
+  .nav-tabs .nav-link.active, .nav-tabs, .nav-link:hover {
+    border-color: transparent !important;
+    }
+
+   textarea {
+    padding: 0.8em;
+   } 
+
+   .dot {
+    width: 2.6em;
+   }
+
+   /* .pic img {
+    width: 103.6%;
+    margin-left: -0.75em;
+   } */
