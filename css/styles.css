@@ -28,7 +28,7 @@
 }
 
 li:nth-child(5) > a {
-    color:red;
+    color:#e9430c;
 }
 
 .nav-tabs .nav-item .nav-link {
@@ -47,7 +47,7 @@ li:nth-child(5) > a {
     padding: 0.8em;
    } 
 
-   .dot {
+   .ico-loc-dot {
     width: 2.6em;
    }
 
